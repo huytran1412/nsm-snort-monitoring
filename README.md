@@ -1,2 +1,2 @@
-# lab1_snort-monitoring
+# nsm-snort-monitoring
 bài thực hành labtainer 1
